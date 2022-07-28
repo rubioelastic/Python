@@ -1,7 +1,7 @@
 
 import pywhatkit
 
-pywhatkit.sendwhatmsg('+34684240643','Python Watsapp Bot, mensage de prueba',1,25)
+pywhatkit.sendwhatmsg('+34684240643','Python Watsapp Bot, mensage de prueba',11,19)
 
 
 
