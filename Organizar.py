@@ -1,8 +1,8 @@
 from PIL import Image
 import os
 
-downloadsFolder = "/Users/javie/Downloads/"
-picturesFolder = "/Users/javie/OneDrive/Imágenes/"
+downloadsFolder = "//fe00fsc1212.bsh.corp.bshg.com/fredirect$/Rubioja/Downloads/"
+picturesFolder = "//fe00fsc1212.bsh.corp.bshg.com/fredirect/Rubioja/Pictures/"
 
 if __name__ == "__main__":
     for filename in os.listdir(downloadsFolder):
